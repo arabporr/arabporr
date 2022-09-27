@@ -21,7 +21,7 @@ Technologies I've learned and used so far:
 - Development Tools : <br />
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
     ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)
-    ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
+    ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=000000)
     ![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
     ![Pycharm](http://img.shields.io/badge/-Pycharm-eee?style=flat-square&logo=pycharm&logoColor=30A700)
