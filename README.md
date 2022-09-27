@@ -24,7 +24,7 @@ Technologies I've learned and used so far:
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
     ![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-    ![Pycharm](http://img.shields.io/badge/-Pycharm-eee?style=flat-square&logo=pycharm&logoColor=0ee391)
+    ![Pycharm](http://img.shields.io/badge/-Pycharm-eee?style=flat-square&logo=pycharm&logoColor=3CD100)
 
 <!---
 arabporr/arabporr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
