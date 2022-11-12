@@ -1,7 +1,7 @@
 - 👋 Hellooooo there, I am Reza Arabpour and I'm glad to see you here ! 😍 
-- 🎓 I’m studying Applied Mathematics with minro in Economics at University of Tehran.
-- 👀 I’m interested in ML, Graph Theory, and Economics.
-- 🌱 I’m currently learning *Deep Learning* & *Data Science*.
+- 🎓 I’m studying Applied Mathematics at University of Tehran.
+- 👀 I’m interested in Deep Learning, Graph Theory, Social Networks Analysis, and Finance.
+- 🌱 I’m currently learning *Transformesrs* & *Natural Language Processing*.
 - 📫 How to reach me : [Email Me!](mailto:arabporr@gmail.com)
 
 
