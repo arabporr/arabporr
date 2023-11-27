@@ -1,5 +1,5 @@
 - 👋 Hello there, I am Reza Arabpour and I'm glad to see you here! 😍 
-- 🎓 I’m studying Computational Science and Engineering at McMaster University.
+- 🎓 I’m a graduate student at McMaster University.
 - 👀 I’m interested in Deep Learning, Graph Theory, and Finance.
 - 🌱 I’m currently working on *Geometric Deep Learning in Finance*.
 - 📫 How to reach me : [Email Me!](mailto:arabporr@gmail.com)
